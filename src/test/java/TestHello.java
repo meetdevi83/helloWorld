@@ -8,6 +8,6 @@ public class TestHello {
         Assert.assertEquals(0,0);
         //dir comment
         //hai
-        //without add commands
+        //command 1
     }
 }
