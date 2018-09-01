@@ -6,6 +6,6 @@ public class TestHello {
     public void testPrg()
     {
         Assert.assertEquals(0,0);
-        //repo comments
+        //intell comments
     }
 }
