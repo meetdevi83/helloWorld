@@ -6,5 +6,6 @@ public class TestHello {
     public void testPrg()
     {
         Assert.assertEquals(0,0);
+        //helloworld
     }
 }
